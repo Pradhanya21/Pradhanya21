@@ -12,15 +12,15 @@
  
  🔭 I’m currently working on **enhancing low-light images for lunar crater analysis**
 
- 🌱 I’m currently learning **React, DevOps**
+ 🌱 I’m currently learning **React, DevOps.**
 
-💬 Ask me about **Html, Bootstrap... or anything [here](https://github.com/pradhanyars/Chat-Application-Java/issues)**
+💬 Ask me about **HTML, Bootstrap.**
 
 📫 How to reach me **pradhanyars05@gmail.com**
 
 ⚡ Fun fact **I once won the Mrs. Acme award for overall performance!**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:pradhanyars05@gmail.com">
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/pradhanyars/Chat-Application-Java" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -68,11 +68,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
