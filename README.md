@@ -12,16 +12,16 @@
  
  🔭 I’m currently working on **enhancing low-light images for lunar crater analysis**
 
- 🌱 I’m currently learning **React, DevOps.**
+ 🌱 I’m currently learning **React, DevOps**
 
-💬 Ask me about **HTML, Bootstrap.**
+💬 Ask me about **HTML, Bootstrap**
 
 📫 How to reach me **pradhanyars05@gmail.com**
 
 ⚡ Fun fact **I once won the Mrs. Acme award for overall performance!**
 
 </div>
- 
+
 <div align="center"> 
   <a href="mailto:pradhanyars05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -34,13 +34,58 @@
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
+### 🕒 Recent Activity
+- **LeetCode:** Solved 5 Medium problems on 2024-08-10.
+- **GitHub:** Pushed 10 commits to [Chat-Application-Java](https://github.com/pradhanyars/Chat-Application-Java) on 2024-08-09.
+- **LeetCode:** 3-day streak achieved on 2024-08-08.
+
+<hr/>
+
+<h2 align="center">📈 LeetCode Status 📈</h2>
+<br/>
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/Pradhanya21?theme=light&font=Baloo%202%20ExtraBold&ext=heatmap&border=1&radius=10" alt="LeetCode Stats" />
+</div>
+<br/>
+
+
+<hr/>
+
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,mongodb,java,javascript,python,opencv,aws,linux,java" />
-    <img src="https://skillicons.dev/icons?i=c,express,django,postman,pandas,tensorflow,sqlite,scikit-learn,seaborn" /><br>
+    <img src="https://skillicons.dev/icons?i=c,express,django,postman,tensorflow,sqlite,scikit-learn,seaborn" /><br>
+</div>
+
+<br/>
+<hr/>
+
+### 🚀 Project Showcase
+<h4 align="center">Chat Application</h4>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your_gif_url.gif" alt="Chat Application Demo" width="600px"/>
+</div>
+<p align="center">A real-time chat application with user authentication and chat rooms.</p>
+
+<hr/>
+
+<h2 align="center">💡 Quote of the Day</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=70&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.">
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🎯 Weekly Goals</h2>
+<br/>
+<div align="center">
+    - [ ] Finish React course on Udemy
+    - [ ] Solve 10 Medium LeetCode problems
+    - [ ] Implement JWT in Chat Application
 </div>
 
 <br/>
